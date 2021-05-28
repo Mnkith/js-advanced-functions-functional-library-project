@@ -23,7 +23,7 @@ First, read up on [FP][], and then come back.
 * Identify JavaScript's non-enforcement of arity
 
 ## Instructions
-
+ 
 Your functions should conform to the following guidelines:
 
 1. Write pure functions (see article)
